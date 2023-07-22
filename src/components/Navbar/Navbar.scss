@@ -1,0 +1,10 @@
+ 
+.app__navbar-links{     //  ul
+     li{
+        &:hover{            // hover on li
+            div{
+                background: var(--secondary-color)
+            }
+        }
+    }
+}
